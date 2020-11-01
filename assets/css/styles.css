@@ -1,3 +1,9 @@
+/* General */
+*{
+    font-family: effra, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+}
 /* History */
 
 .home-p{
@@ -132,4 +138,8 @@ display:block;
     }
 
     
+}
+
+.font-index{    
+    font-size: 20px!important;
 }
