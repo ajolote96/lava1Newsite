@@ -1,9 +1,33 @@
+/* History */
+
 .home-p{
     color: white;
     font-size: larger;
     font-style: inherit;
     font-weight: 500;
     padding: 30px;
+}
+
+@media(max-width: 768px){
+    
+
+    .hero-cap h2{
+        font-weight: 200;        
+        font-size: 10px;
+    }
+    .hero-cap p{
+        font-weight: 200;        
+        font-size: 10px;
+        padding: 0;
+    }
+}
+
+/* Qué es lava1 */
+
+@media(max-width: 768px){
+    .home-p-2{
+        line-height: 15px;
+    }
 }
 
 .slider-height2{
